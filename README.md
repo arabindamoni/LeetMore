@@ -13,7 +13,7 @@ Open up problems list page in leetcode, the extension will do the rest.
 <b> Frequency and Company list </b>
 <img src="snapshots/snapshot_1.JPG" />
 
-<b> Filter companies </b>
+<b> Filter companies</b> (The image below shows filter by 'facebook' and 'google', to select more, click on company icon at the righmost cell of each row. Selected companies show up at the rightmost cell of table header. To unselect click the icons at the table header)
 <img src="snapshots/snapshot_2.JPG" />
 
 ## Installation
