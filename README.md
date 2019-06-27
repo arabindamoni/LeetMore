@@ -1,5 +1,7 @@
 # LeetMore
 Chrome extension to display frequency and company list to leetcode problems.
+Open up problems list page in leetcode, the extension will do the rest.
+<i> This is NOT leetcode premium, you will not get access to premium questions or faster submit queue. </i>
 
 ## Features
 * Display frequency of question
@@ -8,5 +10,15 @@ Chrome extension to display frequency and company list to leetcode problems.
 * Deselect filters easily by clicking the company icons displayed at the table header.
 
 ## Screenshots
-<img src="images/snapshot_1.JPG"/>
-<img src="images/snapshot_2.JPG" />
+<b> Frequency and Company list </b>
+<img src="snapshots/snapshot_1.JPG" />
+
+<b> Filter companies </b>
+<img src="snapshots/snapshot_2.JPG" />
+
+## Installation
+* Download this repo
+* Go to chrome exension page from setting
+* Turn on developers mode at top right
+* Click 'Load unpacked' and select LeetChromeExtension folder inside this repo.
+* Now you are good to go. :)
