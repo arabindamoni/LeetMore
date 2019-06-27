@@ -17,8 +17,10 @@ Open up problems list page in leetcode, the extension will do the rest.
 <img src="snapshots/snapshot_2.JPG" />
 
 ## Installation
+<img src="https://developer.chrome.com/static/images/get_started/load_extension.png"  align="right" />
+
 * Download this repo
-* Go to chrome exension page from setting
+* Go to chrome exension page from settings
 * Turn on developers mode at top right
 * Click 'Load unpacked' and select LeetChromeExtension folder inside this repo.
 * Now you are good to go. :)
