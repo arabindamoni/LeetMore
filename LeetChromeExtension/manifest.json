@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+   
+    "name": "LeetMore",
+    "version": "1.0.0",
+    "description": "Adds freq and company list in leetcode problem list",
+   
+    "background" : {
+      "scripts" : ["background.js"]
+    },
+    "content_scripts": [{      
+      "js": ["index.js"],     
+      "matches": ["https://leetcode.com/problemset/*"],
+      "run_at": "document_end"     
+    }],
+   
+    "browser_action": {
+      "default_icon":"images/icon.png"
+    },
+    "permissions": [
+      "activeTab"
+    ],
+
+    "web_accessible_resources": ["images/*"]
+   
+}
